@@ -7,9 +7,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },
-
-  "homepage": "https://Ishitahub.github.io/to-do-app",
-
+  "homepage": "https://ishitahub.github.io/to-do-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -17,7 +15,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "browserslist": {
     "production": [
